@@ -8,8 +8,8 @@ Assignment is:
 5) Make a pull request
 
 Edit below:
-Person A's Name:
-Person B's Name:
+Person A's Name: Megan Carey
+Person B's Name: Liza Praprotnik
 
 Question for A:
 1) What does git clone do?
@@ -20,7 +20,7 @@ PUT YOUR ANSWER HERE
 
 Question for B:
 1) Why is version-control framework such as git important?
-PUT YOUR ANSWER HERE
+It's important because it lets you update your code while keeping older versions, and it lets you collaborate on projects with others.
 
 2) Explain the concept of branching in git
-PUT YOUR ANSWER HERE
+Branching allows you to make changes to the code without changing the master branch, which contains the actual live code.
